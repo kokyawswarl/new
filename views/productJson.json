@@ -1,0 +1,69 @@
+{"name":"kokyaw",
+        "exper":"2.9.2026",
+        "allModel":[
+            ["mi",
+                ["6a"
+                ,["backlight6a",["phoneWay/XIAOMI/6a/backlight/a.png"]]
+                ,["spaeker6a",["phoneWay/XIAOMI/6a/mic_spk/a.png","phoneWay/XIAOMI/6a/mic_spk/b.png"]]
+                ,["networt",["phoneWay/XIAOMI/6a/network/a.png","phoneWay/XIAOMI/6a/network/b.png"]]
+                ],
+
+                ["note7"
+                ,["backlight",["phoneWay/XIAOMI/note7/backlight/a.png","phoneWay/XIAOMI/note7/backlight/b.png"]]
+                ,["spaeker",["phoneWay/XIAOMI/note7/mic_spk/a.png","phoneWay/XIAOMI/note7/mic_spk/b.png"]]
+                ,["networt",["phoneWay/XIAOMI/note7/network/a.png","phoneWay/XIAOMI/note7/network/b.png"]]
+                ],
+
+                ["mi12"
+                ,["can",["phoneWay/XIAOMI/mi12/can/A.png","phoneWay/XIAOMI/mi12/can/B.png","phoneWay/XIAOMI/mi12/can/C.png","phoneWay/XIAOMI/mi12/can/D.png"]]
+                ,["hhhn",["phoneWay/XIAOMI/mi12/h/Screenshot (517).png","phoneWay/XIAOMI/mi12/h/Screenshot (518).png"]]
+                ]
+            ],
+            ["oppo",
+            ["f1"
+            ,["backlight",["phoneWay/oppo/f1/backlight/a.png","phoneWay/oppo/f1/backlight/b.png"]]
+            ,["spaeker",["phoneWay/oppo/f1/mic_spk/a.png","phoneWay/oppo/f1/mic_spk/b.png"]]
+            ,["networt",["phoneWay/oppo/f1/network/a.png","phoneWay/oppo/f1/network/b.png"]]
+            ],
+
+            ["f5"
+            ,["backlight",["phoneWay/oppo/f5/backlight/a.png","phoneWay/oppo/f5/backlight/b.png"]]
+            ,["spaeker",["phoneWay/oppo/f5/mic_spk/a.png","phoneWay/oppo/f5/mic_spk/b.png"]],
+            ["networt",["phoneWay/oppo/f5/network/a.png","phoneWay/oppo/f5/network/b.png"]]
+            ],
+            ["f9"
+            ,["backlight",["phoneWay/oppo/f5/backlight/a.png","phoneWay/oppo/f5/backlight/b.png"]]
+            ,["spaeker",["phoneWay/oppo/f5/mic_spk/a.png","phoneWay/oppo/f5/mic_spk/b.png"]],
+            ["networt",["phoneWay/oppo/f5/network/a.png","phoneWay/oppo/f5/network/b.png"]]
+            ],["f6"
+            ,["backlight",["phoneWay/oppo/f1/backlight/a.png","phoneWay/oppo/f1/backlight/b.png"]]
+            ,["spaeker",["phoneWay/oppo/f1/mic_spk/a.png","phoneWay/oppo/f1/mic_spk/b.png"]]
+            ,["networt",["phoneWay/oppo/f1/network/a.png","phoneWay/oppo/f1/network/b.png"]]
+            ],
+
+            ["f7"
+            ,["backlight",["phoneWay/oppo/f5/backlight/a.png","phoneWay/oppo/f5/backlight/b.png"]]
+            ,["spaeker",["phoneWay/oppo/f5/mic_spk/a.png","phoneWay/oppo/f5/mic_spk/b.png"]],
+            ["networt",["phoneWay/oppo/f5/network/a.png","phoneWay/oppo/f5/network/b.png"]]
+            ],
+            ["f3"
+            ,["backlight",["phoneWay/oppo/f5/backlight/a.png","phoneWay/oppo/f5/backlight/b.png"]]
+            ,["spaeker",["phoneWay/oppo/f5/mic_spk/a.png","phoneWay/oppo/f5/mic_spk/b.png"]],
+            ["networt",["phoneWay/oppo/f5/network/a.png","phoneWay/oppo/f5/network/b.png"]]
+            ]
+            ],
+            ["vivo",
+                ["y71"
+                ,["backlighty17",["phoneWay/vivo/y71/backlight/a.png","phoneWay/vivo/y71/backlight/b.png"]]
+                ,["spaeker",["phoneWay/vivo/y71/mic_spk/a.png","phoneWay/vivo/y71/mic_spk/b.png"]]
+                ,["networt",["phoneWay/vivo/y71/network/a.png","phoneWay/vivo/y71/network/b.png"]]
+                ],
+
+                ["y15"
+                ,["backlighty15",["phoneWay/vivo/y15/backlight/a.png","phoneWay/vivo/y15/backlight/b.png"]]
+                ,["spaeker",["phoneWay/vivo/y15/mic_spk/a.png","phoneWay/vivo/y15/mic_spk/b.png"]],
+                ["networt",["phoneWay/vivo/y15/network/a.png","phoneWay/vivo/y15/network/b.png"]]
+                ]
+            ]
+        ]
+}

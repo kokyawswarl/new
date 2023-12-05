@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+          <div class="titel">ZERO&ONE<div class="titelMin">mobile service way</div></div>
+            <div class="load"></div>
+            <div class="truck"></div>
+        </div>
+        <div class="seen">
+            <div class="menu">
+                <div class="user">
+                    <div class="userPoto">👨‍💻</div>
+                    <div class="userName">{{#if message}}
+   
+{{message}}
+    {{/if}}
+    </div>
+                    <div class="exp"></div>
+                </div>
+                <div class="model"></div>
+                <div class="menuOnOff"></div>
+            </div>
+            <div class="show">
+                  <div id="zoom">
+                      <!-- <img class="img" src="A.png" alt="zoom">
+                      <img class="img" src="B.png" alt="zoom"> -->
+                  </div>
+            </div>
+            <div class="z">
+              <div class="zUp">&#128269;</div>
+              <div class="zDown">&#128269;</div>
+            </div>
+        </div>
+        <div class="footer"><label>Kyaw Swar mobile service </label></div>
+    </div>
+{{!-- <script>
+        var scale = 1, 
+          panning = false,
+          pointX = 0,
+          pointY = 0,
+          start = { x: 0, y: 0 },
+          zoom = document.getElementById("zoom");
+  
+  
+        function setTransform() {
+            zoom.style.bottom="0px";
+            zoom.style.transform = "translate(" + pointX + "px, " + pointY + "px) scale(" + scale + ")";
+          
+        }
+  
+        zoom.onmousedown = function (e) {
+            e.preventDefault();
+            start = { x: e.clientX - pointX, y: e.clientY - pointY };
+            panning = true;
+            console.log(start.x);
+            console.log(start.y);
+            console.log(e.clientX);
+            console.log(e.clientY);
+        }
+  
+        zoom.onmouseup = function (e) {
+          panning = false;
+        }
+  
+        zoom.onmousemove = function (e) {
+          e.preventDefault();
+          if (!panning) {
+            return;
+          }
+          pointX = (e.clientX - start.x);
+          pointY = (e.clientY - start.y);
+          setTransform();
+        }
+  
+        zoom.onwheel = function (e) {
+          e.preventDefault();
+          var xs = (e.clientX - pointX) / scale,
+            ys = (e.clientY - pointY) / scale,
+            delta = (e.wheelDelta ? e.wheelDelta : -e.deltaY);
+          (delta > 0) ? (scale *= 1.2) : (scale /= 1.2);
+          pointX = e.clientX - (xs * scale);
+          pointY = e.clientY - (ys * scale);
+  
+          setTransform();
+        }
+</script> --}}
+<script src="/index.js"></script> 
+</body>
+</html>
